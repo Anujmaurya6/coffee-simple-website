@@ -1,0 +1,14 @@
+body{
+    font-family:sans-serif;
+    text-align: center;
+    padding:30px;
+}
+#box{
+    width:200px;
+    height:200px;
+    background-colour:rgb(94, 94, 220);
+    margin:20px auto;
+    line-height:200px;
+    font-weight:bold;
+    color:#300;
+}

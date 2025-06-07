@@ -1,0 +1,11 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    padding:40px;
+    text-align:center;
+    background-color: #fef9f0;
+}
+ul{
+    list-style-type:square;
+    font-size:20px;
+    color:#555;
+}
